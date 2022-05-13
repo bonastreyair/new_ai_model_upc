@@ -7,4 +7,4 @@ Este repositorio va a definir el mejor modelo de AI para UPC.
 - Alfredo
 - Gerson
 
-que pasa soy nacho!
+Que pasa soy Nacho!
