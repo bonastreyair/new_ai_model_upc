@@ -6,3 +6,4 @@ Este repositorio va a definir el mejor modelo de AI para UPC.
 - Rocio
 - Alfredo
 - Gerson
+Hola 
