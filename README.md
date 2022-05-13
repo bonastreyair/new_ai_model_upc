@@ -4,3 +4,5 @@ Este repositorio va a definir el mejor modelo de AI para UPC.
 ## Students
 - Juan
 - Rocio
+- Alfredo
+- Gerson
